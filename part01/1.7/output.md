@@ -1,3 +1,4 @@
+```
 ❯❯ pm :: 1.7 :: 17.47  docker build . --tag web-server
 [+] Building 0.2s (5/5) FINISHED
  => [internal] load build definition from Dockerfile                                                                                0.0s
