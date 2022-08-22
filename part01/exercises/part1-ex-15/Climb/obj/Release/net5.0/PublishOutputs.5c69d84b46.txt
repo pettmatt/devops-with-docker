@@ -1,0 +1,5 @@
+F:\Koulu\moocit\devopsWithDocker\part01\exercises\part1-ex-15\Climb\ClimbRebuild\bin\Release\net5.0\publish\Loppuprojekti.exe
+F:\Koulu\moocit\devopsWithDocker\part01\exercises\part1-ex-15\Climb\ClimbRebuild\bin\Release\net5.0\publish\Loppuprojekti.dll
+F:\Koulu\moocit\devopsWithDocker\part01\exercises\part1-ex-15\Climb\ClimbRebuild\bin\Release\net5.0\publish\Loppuprojekti.deps.json
+F:\Koulu\moocit\devopsWithDocker\part01\exercises\part1-ex-15\Climb\ClimbRebuild\bin\Release\net5.0\publish\Loppuprojekti.runtimeconfig.json
+F:\Koulu\moocit\devopsWithDocker\part01\exercises\part1-ex-15\Climb\ClimbRebuild\bin\Release\net5.0\publish\Loppuprojekti.pdb

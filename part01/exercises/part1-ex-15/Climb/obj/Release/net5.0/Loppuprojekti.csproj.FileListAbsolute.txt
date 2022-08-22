@@ -1,0 +1,16 @@
+F:\Koulu\moocit\devopsWithDocker\part01\exercises\part1-ex-15\Climb\ClimbRebuild\bin\Release\net5.0\Loppuprojekti.exe
+F:\Koulu\moocit\devopsWithDocker\part01\exercises\part1-ex-15\Climb\ClimbRebuild\bin\Release\net5.0\Loppuprojekti.deps.json
+F:\Koulu\moocit\devopsWithDocker\part01\exercises\part1-ex-15\Climb\ClimbRebuild\bin\Release\net5.0\Loppuprojekti.runtimeconfig.json
+F:\Koulu\moocit\devopsWithDocker\part01\exercises\part1-ex-15\Climb\ClimbRebuild\bin\Release\net5.0\Loppuprojekti.runtimeconfig.dev.json
+F:\Koulu\moocit\devopsWithDocker\part01\exercises\part1-ex-15\Climb\ClimbRebuild\bin\Release\net5.0\Loppuprojekti.dll
+F:\Koulu\moocit\devopsWithDocker\part01\exercises\part1-ex-15\Climb\ClimbRebuild\bin\Release\net5.0\ref\Loppuprojekti.dll
+F:\Koulu\moocit\devopsWithDocker\part01\exercises\part1-ex-15\Climb\ClimbRebuild\bin\Release\net5.0\Loppuprojekti.pdb
+F:\Koulu\moocit\devopsWithDocker\part01\exercises\part1-ex-15\Climb\ClimbRebuild\obj\Release\net5.0\Loppuprojekti.csproj.AssemblyReference.cache
+F:\Koulu\moocit\devopsWithDocker\part01\exercises\part1-ex-15\Climb\ClimbRebuild\obj\Release\net5.0\Loppuprojekti.GeneratedMSBuildEditorConfig.editorconfig
+F:\Koulu\moocit\devopsWithDocker\part01\exercises\part1-ex-15\Climb\ClimbRebuild\obj\Release\net5.0\Loppuprojekti.AssemblyInfoInputs.cache
+F:\Koulu\moocit\devopsWithDocker\part01\exercises\part1-ex-15\Climb\ClimbRebuild\obj\Release\net5.0\Loppuprojekti.AssemblyInfo.cs
+F:\Koulu\moocit\devopsWithDocker\part01\exercises\part1-ex-15\Climb\ClimbRebuild\obj\Release\net5.0\Loppuprojekti.csproj.CoreCompileInputs.cache
+F:\Koulu\moocit\devopsWithDocker\part01\exercises\part1-ex-15\Climb\ClimbRebuild\obj\Release\net5.0\Loppuprojekti.dll
+F:\Koulu\moocit\devopsWithDocker\part01\exercises\part1-ex-15\Climb\ClimbRebuild\obj\Release\net5.0\ref\Loppuprojekti.dll
+F:\Koulu\moocit\devopsWithDocker\part01\exercises\part1-ex-15\Climb\ClimbRebuild\obj\Release\net5.0\Loppuprojekti.pdb
+F:\Koulu\moocit\devopsWithDocker\part01\exercises\part1-ex-15\Climb\ClimbRebuild\obj\Release\net5.0\Loppuprojekti.genruntimeconfig.cache
